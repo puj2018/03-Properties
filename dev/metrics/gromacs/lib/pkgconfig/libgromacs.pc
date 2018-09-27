@@ -1,0 +1,11 @@
+libdir=/home/ppath/03-Properties/dev/src/gromacs/lib
+
+Name: libgromacs
+Description: Gromacs library
+URL: http://www.gromacs.org
+Version: 2018.3
+Requires: fftw3f 
+Libs.private: -lpthread -ldl -fopenmp
+Libs: -L${libdir} -lgromacs  -lm 
+Cflags:  -I/home/ppath/03-Properties/dev/src/gromacs/include -DGMX_DOUBLE=0 -fopenmp -std=c++11 
+

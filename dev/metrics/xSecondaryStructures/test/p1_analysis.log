@@ -1,0 +1,357 @@
+---------------------< SELECTION CRITERIA >-------------------------------- 0001
+
+        Hydrogen bond geometric selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Donor-Acceptor distance <= 3.5 Ang. without sulfur                      
+        Donor-Acceptor distance <= 4 Ang. with sulfur                           
+        Donor-Acceptor distance <= 4.5 Ang. salt bridge                         
+        Hydrogen-Acceptor distance <= 2.5 Ang. without sulfur                   
+        Hydrogen-Acceptor distance <= 3 Ang. with sulfur                        
+        Hydrogen-Acceptor distance <= 3.5 Ang. salt bridge                      
+        Donor-Hydrogen-Acceptor angle >= 110 Deg.                               
+        Hydrogen-Acceptor-Preacceptor angle >= 90 Deg.                          
+                                                                                
+        Hydrogen bond energetic selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Maximum allowed hydrogen bonding energy = -1 Kcal/Mol                   
+                                                                                
+        Non-covalent bond selection criteria:                                   
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                   
+        Keep all hydrogen bonds and hydrophobic tethers except                  
+        those including waters ----> Default assumption                         
+        Filter on Donor-Hydrogen-Acceptor angle                                 
+---------------------------------------------------------------------
+                    BASIC SUMMARY OF PROFLEX ANALYSIS
+
+       278 Atoms
+         8 Hydrogen bonds
+         2 Hydrophobic tethers
+        22 Torsional constraints
+        11 Independent degrees of freedom (DOF)
+         6 Rigid clusters
+         0 Isolated atoms
+         0 Isolated Dimers
+         1 Three-dimensional objects
+         1 Network induced stress regions
+         5 Floppy modes (internal independent DOF)
+         5 Hinge joints
+         5 Independent hinge joints
+         0 Collective motions (with two or more hinges)
+
+---------- Rigid cluster Size ----- Cluster # ------------
+                      3                  1
+                      4                  1
+                      5                  3
+                    266                  1
+
+---------- Stress Region Size ----- Cluster # ------------
+                    181                  1
+
+---- Collective Motion ---- # of hinges ---- # of DOF ----
+
+---------------------< SELECTION CRITERIA >-------------------------------- 0002
+
+        Hydrogen bond geometric selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Donor-Acceptor distance <= 3.5 Ang. without sulfur                      
+        Donor-Acceptor distance <= 4 Ang. with sulfur                           
+        Donor-Acceptor distance <= 4.5 Ang. salt bridge                         
+        Hydrogen-Acceptor distance <= 2.5 Ang. without sulfur                   
+        Hydrogen-Acceptor distance <= 3 Ang. with sulfur                        
+        Hydrogen-Acceptor distance <= 3.5 Ang. salt bridge                      
+        Donor-Hydrogen-Acceptor angle >= 110 Deg.                               
+        Hydrogen-Acceptor-Preacceptor angle >= 90 Deg.                          
+                                                                                
+        Hydrogen bond energetic selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Maximum allowed hydrogen bonding energy = -1 Kcal/Mol                   
+                                                                                
+        Non-covalent bond selection criteria:                                   
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                   
+        Keep all hydrogen bonds and hydrophobic tethers except                  
+        those including waters ----> Default assumption                         
+        Filter on Donor-Hydrogen-Acceptor angle                                 
+---------------------------------------------------------------------
+                    BASIC SUMMARY OF PROFLEX ANALYSIS
+
+       278 Atoms
+         8 Hydrogen bonds
+         2 Hydrophobic tethers
+        22 Torsional constraints
+        11 Independent degrees of freedom (DOF)
+         6 Rigid clusters
+         0 Isolated atoms
+         0 Isolated Dimers
+         1 Three-dimensional objects
+         1 Network induced stress regions
+         5 Floppy modes (internal independent DOF)
+         5 Hinge joints
+         5 Independent hinge joints
+         0 Collective motions (with two or more hinges)
+
+---------- Rigid cluster Size ----- Cluster # ------------
+                      3                  1
+                      4                  1
+                      5                  3
+                    266                  1
+
+---------- Stress Region Size ----- Cluster # ------------
+                    181                  1
+
+---- Collective Motion ---- # of hinges ---- # of DOF ----
+
+---------------------< SELECTION CRITERIA >-------------------------------- 0003
+
+        Hydrogen bond geometric selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Donor-Acceptor distance <= 3.5 Ang. without sulfur                      
+        Donor-Acceptor distance <= 4 Ang. with sulfur                           
+        Donor-Acceptor distance <= 4.5 Ang. salt bridge                         
+        Hydrogen-Acceptor distance <= 2.5 Ang. without sulfur                   
+        Hydrogen-Acceptor distance <= 3 Ang. with sulfur                        
+        Hydrogen-Acceptor distance <= 3.5 Ang. salt bridge                      
+        Donor-Hydrogen-Acceptor angle >= 110 Deg.                               
+        Hydrogen-Acceptor-Preacceptor angle >= 90 Deg.                          
+                                                                                
+        Hydrogen bond energetic selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Maximum allowed hydrogen bonding energy = -1 Kcal/Mol                   
+                                                                                
+        Non-covalent bond selection criteria:                                   
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                   
+        Keep all hydrogen bonds and hydrophobic tethers except                  
+        those including waters ----> Default assumption                         
+        Filter on Donor-Hydrogen-Acceptor angle                                 
+---------------------------------------------------------------------
+                    BASIC SUMMARY OF PROFLEX ANALYSIS
+
+       278 Atoms
+         8 Hydrogen bonds
+         2 Hydrophobic tethers
+        22 Torsional constraints
+        11 Independent degrees of freedom (DOF)
+         6 Rigid clusters
+         0 Isolated atoms
+         0 Isolated Dimers
+         1 Three-dimensional objects
+         1 Network induced stress regions
+         5 Floppy modes (internal independent DOF)
+         5 Hinge joints
+         5 Independent hinge joints
+         0 Collective motions (with two or more hinges)
+
+---------- Rigid cluster Size ----- Cluster # ------------
+                      3                  1
+                      4                  1
+                      5                  3
+                    266                  1
+
+---------- Stress Region Size ----- Cluster # ------------
+                    181                  1
+
+---- Collective Motion ---- # of hinges ---- # of DOF ----
+
+---------------------< SELECTION CRITERIA >-------------------------------- 0004
+
+        Hydrogen bond geometric selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Donor-Acceptor distance <= 3.5 Ang. without sulfur                      
+        Donor-Acceptor distance <= 4 Ang. with sulfur                           
+        Donor-Acceptor distance <= 4.5 Ang. salt bridge                         
+        Hydrogen-Acceptor distance <= 2.5 Ang. without sulfur                   
+        Hydrogen-Acceptor distance <= 3 Ang. with sulfur                        
+        Hydrogen-Acceptor distance <= 3.5 Ang. salt bridge                      
+        Donor-Hydrogen-Acceptor angle >= 110 Deg.                               
+        Hydrogen-Acceptor-Preacceptor angle >= 90 Deg.                          
+                                                                                
+        Hydrogen bond energetic selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Maximum allowed hydrogen bonding energy = -1 Kcal/Mol                   
+                                                                                
+        Non-covalent bond selection criteria:                                   
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                   
+        Keep all hydrogen bonds and hydrophobic tethers except                  
+        those including waters ----> Default assumption                         
+        Filter on Donor-Hydrogen-Acceptor angle                                 
+---------------------------------------------------------------------
+                    BASIC SUMMARY OF PROFLEX ANALYSIS
+
+       278 Atoms
+         8 Hydrogen bonds
+         2 Hydrophobic tethers
+        22 Torsional constraints
+        11 Independent degrees of freedom (DOF)
+         6 Rigid clusters
+         0 Isolated atoms
+         0 Isolated Dimers
+         1 Three-dimensional objects
+         1 Network induced stress regions
+         5 Floppy modes (internal independent DOF)
+         5 Hinge joints
+         5 Independent hinge joints
+         0 Collective motions (with two or more hinges)
+
+---------- Rigid cluster Size ----- Cluster # ------------
+                      3                  1
+                      4                  1
+                      5                  3
+                    266                  1
+
+---------- Stress Region Size ----- Cluster # ------------
+                    181                  1
+
+---- Collective Motion ---- # of hinges ---- # of DOF ----
+
+---------------------< SELECTION CRITERIA >-------------------------------- 0005
+
+        Hydrogen bond geometric selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Donor-Acceptor distance <= 3.5 Ang. without sulfur                      
+        Donor-Acceptor distance <= 4 Ang. with sulfur                           
+        Donor-Acceptor distance <= 4.5 Ang. salt bridge                         
+        Hydrogen-Acceptor distance <= 2.5 Ang. without sulfur                   
+        Hydrogen-Acceptor distance <= 3 Ang. with sulfur                        
+        Hydrogen-Acceptor distance <= 3.5 Ang. salt bridge                      
+        Donor-Hydrogen-Acceptor angle >= 110 Deg.                               
+        Hydrogen-Acceptor-Preacceptor angle >= 90 Deg.                          
+                                                                                
+        Hydrogen bond energetic selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Maximum allowed hydrogen bonding energy = -1 Kcal/Mol                   
+                                                                                
+        Non-covalent bond selection criteria:                                   
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                   
+        Keep all hydrogen bonds and hydrophobic tethers except                  
+        those including waters ----> Default assumption                         
+        Filter on Donor-Hydrogen-Acceptor angle                                 
+---------------------------------------------------------------------
+                    BASIC SUMMARY OF PROFLEX ANALYSIS
+
+       278 Atoms
+         8 Hydrogen bonds
+         2 Hydrophobic tethers
+        22 Torsional constraints
+        11 Independent degrees of freedom (DOF)
+         6 Rigid clusters
+         0 Isolated atoms
+         0 Isolated Dimers
+         1 Three-dimensional objects
+         1 Network induced stress regions
+         5 Floppy modes (internal independent DOF)
+         5 Hinge joints
+         5 Independent hinge joints
+         0 Collective motions (with two or more hinges)
+
+---------- Rigid cluster Size ----- Cluster # ------------
+                      3                  1
+                      4                  1
+                      5                  3
+                    266                  1
+
+---------- Stress Region Size ----- Cluster # ------------
+                    181                  1
+
+---- Collective Motion ---- # of hinges ---- # of DOF ----
+
+---------------------< SELECTION CRITERIA >-------------------------------- 0006
+
+        Hydrogen bond geometric selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Donor-Acceptor distance <= 3.5 Ang. without sulfur                      
+        Donor-Acceptor distance <= 4 Ang. with sulfur                           
+        Donor-Acceptor distance <= 4.5 Ang. salt bridge                         
+        Hydrogen-Acceptor distance <= 2.5 Ang. without sulfur                   
+        Hydrogen-Acceptor distance <= 3 Ang. with sulfur                        
+        Hydrogen-Acceptor distance <= 3.5 Ang. salt bridge                      
+        Donor-Hydrogen-Acceptor angle >= 110 Deg.                               
+        Hydrogen-Acceptor-Preacceptor angle >= 90 Deg.                          
+                                                                                
+        Hydrogen bond energetic selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Maximum allowed hydrogen bonding energy = -1 Kcal/Mol                   
+                                                                                
+        Non-covalent bond selection criteria:                                   
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                   
+        Keep all hydrogen bonds and hydrophobic tethers except                  
+        those including waters ----> Default assumption                         
+        Filter on Donor-Hydrogen-Acceptor angle                                 
+---------------------------------------------------------------------
+                    BASIC SUMMARY OF PROFLEX ANALYSIS
+
+       278 Atoms
+         8 Hydrogen bonds
+         2 Hydrophobic tethers
+        22 Torsional constraints
+        11 Independent degrees of freedom (DOF)
+         6 Rigid clusters
+         0 Isolated atoms
+         0 Isolated Dimers
+         1 Three-dimensional objects
+         1 Network induced stress regions
+         5 Floppy modes (internal independent DOF)
+         5 Hinge joints
+         5 Independent hinge joints
+         0 Collective motions (with two or more hinges)
+
+---------- Rigid cluster Size ----- Cluster # ------------
+                      3                  1
+                      4                  1
+                      5                  3
+                    266                  1
+
+---------- Stress Region Size ----- Cluster # ------------
+                    181                  1
+
+---- Collective Motion ---- # of hinges ---- # of DOF ----
+
+---------------------< SELECTION CRITERIA >-------------------------------- 0007
+
+        Hydrogen bond geometric selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Donor-Acceptor distance <= 3.5 Ang. without sulfur                      
+        Donor-Acceptor distance <= 4 Ang. with sulfur                           
+        Donor-Acceptor distance <= 4.5 Ang. salt bridge                         
+        Hydrogen-Acceptor distance <= 2.5 Ang. without sulfur                   
+        Hydrogen-Acceptor distance <= 3 Ang. with sulfur                        
+        Hydrogen-Acceptor distance <= 3.5 Ang. salt bridge                      
+        Donor-Hydrogen-Acceptor angle >= 110 Deg.                               
+        Hydrogen-Acceptor-Preacceptor angle >= 90 Deg.                          
+                                                                                
+        Hydrogen bond energetic selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Maximum allowed hydrogen bonding energy = -1 Kcal/Mol                   
+                                                                                
+        Non-covalent bond selection criteria:                                   
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                   
+        Keep all hydrogen bonds and hydrophobic tethers except                  
+        those including waters ----> Default assumption                         
+        Filter on Donor-Hydrogen-Acceptor angle                                 
+---------------------------------------------------------------------
+                    BASIC SUMMARY OF PROFLEX ANALYSIS
+
+       278 Atoms
+         8 Hydrogen bonds
+         2 Hydrophobic tethers
+        22 Torsional constraints
+        11 Independent degrees of freedom (DOF)
+         6 Rigid clusters
+         0 Isolated atoms
+         0 Isolated Dimers
+         1 Three-dimensional objects
+         1 Network induced stress regions
+         5 Floppy modes (internal independent DOF)
+         5 Hinge joints
+         5 Independent hinge joints
+         0 Collective motions (with two or more hinges)
+
+---------- Rigid cluster Size ----- Cluster # ------------
+                      3                  1
+                      4                  1
+                      5                  3
+                    266                  1
+
+---------- Stress Region Size ----- Cluster # ------------
+                    181                  1
+
+---- Collective Motion ---- # of hinges ---- # of DOF ----
+

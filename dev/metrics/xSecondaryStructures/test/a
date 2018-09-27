@@ -1,0 +1,950 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	               #    #   ####   #    #
+	               ##  ##  #       #    #
+	               # ## #   ####   #    #
+	               #    #       #  #    #
+	               #    #  #    #  #    #
+	               #    #   ####    ####
+
+	 ######                  #######
+	 #     #  #####    ####  #        #       ######  #    #
+	 #     #  #    #  #    # #        #       #        #  #
+	 ######   #    #  #    # #####    #       #####     ##
+	 #        #####   #    # #        #       #         ##
+	 #        #   #   #    # #        #       #        #  #
+	 #        #    #   ####  #        ######  ######  #    #
+	----------------------------------------------------------
+	 Software for Protein Flexibility Prediction and Analysis
+	                   version 5.0
+	    Copyright (C) 1997 - 2008, Michigan State University
+	                (formerly called FIRST)
+	     Protein Structural Analysis and Design Laboratory
+	                Michigan State University
+	                   East Lansing MI, USA
+
+
+
+CAUTION: Previous file [p1_proflexdataset] already exists!
+
+         This file will be over-written, but not its
+         associated FIRST analysis output files. It is
+         recommended to either rename p1.pdb
+         or remove the existing data files, or rename the 
+         existing data files. This is because the file with
+         an extension  _proflexdataset serves as a record.
+
+         Use [-p] to keep intact: [p1_proflexdataset]
+
+
+Caution: The distance of [d = 2.67 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   13    2HB  ASP       1       A
+	    7    OD1  ASP       1       A
+
+Caution: The distance of [d = 2.07 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   13    2HB  ASP       1       A
+	    6    CG   ASP       1       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   13    2HB  ASP       1       A
+	    5    CB   ASP       1       A
+
+Caution: The distance of [d = 2.72 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   13    2HB  ASP       1       A
+	    1    N    ASP       1       A
+
+Caution: The distance of [d = 1.77 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   22    1HB  ALA       2       A
+	   24    3HB  ALA       2       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   22    1HB  ALA       2       A
+	   19    CB   ALA       2       A
+
+Caution: The distance of [d = 2.68 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   22    1HB  ALA       2       A
+	   15    N    ALA       2       A
+
+Caution: The distance of [d = 2.70 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   22    1HB  ALA       2       A
+	   18    O    ALA       2       A
+
+Caution: The distance of [d = 2.69 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   23    2HB  ALA       2       A
+	   63    OE1  GLN       5       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   23    2HB  ALA       2       A
+	   19    CB   ALA       2       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   24    3HB  ALA       2       A
+	   19    CB   ALA       2       A
+
+Caution: The distance of [d = 2.61 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   24    3HB  ALA       2       A
+	   15    N    ALA       2       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   39    2HB  TYR       3       A
+	   29    CB   TYR       3       A
+
+Caution: The distance of [d = 2.81 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   39    2HB  TYR       3       A
+	   25    N    TYR       3       A
+
+Caution: The distance of [d = 1.79 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   53    1HB  ALA       4       A
+	   55    3HB  ALA       4       A
+
+Caution: The distance of [d = 1.74 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   53    1HB  ALA       4       A
+	   54    2HB  ALA       4       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   53    1HB  ALA       4       A
+	   50    CB   ALA       4       A
+
+Caution: The distance of [d = 2.77 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   54    2HB  ALA       4       A
+	   46    N    ALA       4       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   54    2HB  ALA       4       A
+	   50    CB   ALA       4       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   55    3HB  ALA       4       A
+	   50    CB   ALA       4       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   67    2HB  GLN       5       A
+	   60    CB   GLN       5       A
+
+Caution: The distance of [d = 2.77 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   67    2HB  GLN       5       A
+	   56    N    GLN       5       A
+
+Caution: The distance of [d = 2.78 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   69    2HG  GLN       5       A
+	   63    OE1  GLN       5       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   69    2HG  GLN       5       A
+	   61    CG   GLN       5       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	   89    2HB  TRP       6       A
+	   77    CB   TRP       6       A
+
+Caution: The distance of [d = 2.61 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	   89    2HB  TRP       6       A
+	   73    N    TRP       6       A
+
+Caution: The distance of [d = 2.33 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  107    2HB  LEU       7       A
+	   97    N    LEU       7       A
+
+Caution: The distance of [d = 2.63 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  107    2HB  LEU       7       A
+	   28    O    TYR       3       A
+
+Caution: The distance of [d = 2.09 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  107    2HB  LEU       7       A
+	   98    CA   LEU       7       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  107    2HB  LEU       7       A
+	  101    CB   LEU       7       A
+
+Caution: The distance of [d = 2.82 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  123    1HB  ALA       8       A
+	  116    N    ALA       8       A
+
+Caution: The distance of [d = 2.83 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  123    1HB  ALA       8       A
+	   59    O    GLN       5       A
+
+Caution: The distance of [d = 1.70 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  123    1HB  ALA       8       A
+	  124    2HB  ALA       8       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  123    1HB  ALA       8       A
+	  120    CB   ALA       8       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  124    2HB  ALA       8       A
+	  120    CB   ALA       8       A
+
+Caution: The distance of [d = 1.78 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  124    2HB  ALA       8       A
+	  125    3HB  ALA       8       A
+
+Caution: The distance of [d = 2.75 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  125    3HB  ALA       8       A
+	  116    N    ALA       8       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  125    3HB  ALA       8       A
+	  120    CB   ALA       8       A
+
+Caution: The distance of [d = 2.64 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  125    3HB  ALA       8       A
+	   49    O    ALA       4       A
+
+Caution: The distance of [d = 2.75 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  136    2HB  ASP       9       A
+	  132    OD1  ASP       9       A
+
+Caution: The distance of [d = 2.90 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  136    2HB  ASP       9       A
+	  133    OD2  ASP       9       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  136    2HB  ASP       9       A
+	  130    CB   ASP       9       A
+
+Caution: The distance of [d = 2.06 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  136    2HB  ASP       9       A
+	  127    CA   ASP       9       A
+
+Caution: The distance of [d = 2.51 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  136    2HB  ASP       9       A
+	  126    N    ASP       9       A
+
+Caution: The distance of [d = 2.69 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  136    2HB  ASP       9       A
+	   59    O    GLN       5       A
+
+Caution: The distance of [d = 1.08 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  143    2HA  GLY      10       A
+	  139    CA   GLY      10       A
+
+Caution: The distance of [d = 2.88 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  143    2HA  GLY      10       A
+	  145    N    GLY      11       A
+
+Caution: The distance of [d = 2.09 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  150    2HA  GLY      11       A
+	  147    C    GLY      11       A
+
+Caution: The distance of [d = 1.08 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  150    2HA  GLY      11       A
+	  146    CA   GLY      11       A
+
+Caution: The distance of [d = 2.86 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  160    2HB  PRO      12       A
+	  155    O    PRO      12       A
+
+Caution: The distance of [d = 2.45 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  160    2HB  PRO      12       A
+	  162    2HG  PRO      12       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  160    2HB  PRO      12       A
+	  156    CB   PRO      12       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  162    2HG  PRO      12       A
+	  157    CG   PRO      12       A
+
+Caution: The distance of [d = 2.44 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  162    2HG  PRO      12       A
+	  164    2HD  PRO      12       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  164    2HD  PRO      12       A
+	  158    CD   PRO      12       A
+
+Caution: The distance of [d = 2.25 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  164    2HD  PRO      12       A
+	  152    N    PRO      12       A
+
+Caution: The distance of [d = 2.73 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  164    2HD  PRO      12       A
+	  145    N    GLY      11       A
+
+Caution: The distance of [d = 2.58 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  174    2HB  SER      13       A
+	  166    N    SER      13       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  174    2HB  SER      13       A
+	  170    CB   SER      13       A
+
+Caution: The distance of [d = 2.74 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  185    2HB  SER      14       A
+	  180    O    SER      14       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  185    2HB  SER      14       A
+	  181    CB   SER      14       A
+
+Caution: The distance of [d = 1.08 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  193    2HA  GLY      15       A
+	  189    CA   GLY      15       A
+
+Caution: The distance of [d = 2.70 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  193    2HA  GLY      15       A
+	  191    O    GLY      15       A
+
+Caution: The distance of [d = 2.07 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  193    2HA  GLY      15       A
+	  190    C    GLY      15       A
+
+Caution: The distance of [d = 2.78 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  208    2HB  ARG      16       A
+	  195    N    ARG      16       A
+
+Caution: The distance of [d = 2.61 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  208    2HB  ARG      16       A
+	  210    2HG  ARG      16       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  208    2HB  ARG      16       A
+	  199    CB   ARG      16       A
+
+Caution: The distance of [d = 2.74 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  210    2HG  ARG      16       A
+	  202    NE   ARG      16       A
+
+Caution: The distance of [d = 2.01 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  210    2HG  ARG      16       A
+	  201    CD   ARG      16       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  210    2HG  ARG      16       A
+	  200    CG   ARG      16       A
+
+Caution: The distance of [d = 2.72 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  212    2HD  ARG      16       A
+	  204    NH1  ARG      16       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  212    2HD  ARG      16       A
+	  201    CD   ARG      16       A
+
+Caution: The distance of [d = 2.43 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  227    2HB  PRO      17       A
+	  231    2HD  PRO      17       A
+
+Caution: The distance of [d = 2.52 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  227    2HB  PRO      17       A
+	  229    2HG  PRO      17       A
+
+Caution: The distance of [d = 2.10 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  227    2HB  PRO      17       A
+	  224    CG   PRO      17       A
+
+Caution: The distance of [d = 2.71 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  227    2HB  PRO      17       A
+	  219    N    PRO      17       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  227    2HB  PRO      17       A
+	  223    CB   PRO      17       A
+
+Caution: The distance of [d = 2.85 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  227    2HB  PRO      17       A
+	  222    O    PRO      17       A
+
+Caution: The distance of [d = 2.42 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  229    2HG  PRO      17       A
+	  231    2HD  PRO      17       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  229    2HG  PRO      17       A
+	  224    CG   PRO      17       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  231    2HD  PRO      17       A
+	  225    CD   PRO      17       A
+
+Caution: The distance of [d = 2.86 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  241    2HB  PRO      18       A
+	  236    O    PRO      18       A
+
+Caution: The distance of [d = 2.32 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  241    2HB  PRO      18       A
+	  243    2HG  PRO      18       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  241    2HB  PRO      18       A
+	  237    CB   PRO      18       A
+
+Caution: The distance of [d = 2.31 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  243    2HG  PRO      18       A
+	  245    2HD  PRO      18       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  243    2HG  PRO      18       A
+	  238    CG   PRO      18       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  245    2HD  PRO      18       A
+	  239    CD   PRO      18       A
+
+Caution: The distance of [d = 2.57 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  255    2HB  PRO      19       A
+	  261    N    SER      20       A
+
+Caution: The distance of [d = 2.44 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  255    2HB  PRO      19       A
+	  257    2HG  PRO      19       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  255    2HB  PRO      19       A
+	  251    CB   PRO      19       A
+
+Caution: The distance of [d = 2.09 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  257    2HG  PRO      19       A
+	  253    CD   PRO      19       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  257    2HG  PRO      19       A
+	  252    CG   PRO      19       A
+
+Caution: The distance of [d = 2.71 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  257    2HG  PRO      19       A
+	  247    N    PRO      19       A
+
+Caution: The distance of [d = 2.21 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  257    2HG  PRO      19       A
+	  259    2HD  PRO      19       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  259    2HD  PRO      19       A
+	  253    CD   PRO      19       A
+
+Caution: The distance of [d = 2.40 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  270    2HB  SER      20       A
+	  261    N    SER      20       A
+
+Caution: The distance of [d = 1.11 Ang.] seems low!
+	 Atom#  Atom  Res    Res#    Chain
+	  270    2HB  SER      20       A
+	  265    CB   SER      20       A
+
+Caution: The distance of [d = 2.10 Ang.] seems high!
+	 Atom#  Atom  Res    Res#    Chain
+	  270    2HB  SER      20       A
+	  262    CA   SER      20       A
+
+
+		     Valency warnings
+---------------------------------------------------------------
+
+	Valency of atom 1 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	    1    N    ASP       1       A
+	    2    CA   ASP       1       A
+	    9    H1   ASP       1       A
+	   10    H2   ASP       1       A
+	   11    H3   ASP       1       A
+	   13    2HB  ASP       1       A
+
+	Valency of atom 15 is 5, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	   15    N    ALA       2       A
+	    3    C    ASP       1       A
+	   16    CA   ALA       2       A
+	   20    H    ALA       2       A
+	   22    1HB  ALA       2       A
+	   24    3HB  ALA       2       A
+
+	Valency of atom 18 is 3, greater than its maximum valency (2)
+	 Atom#  Atom  Res    Res#    Chain
+	   18    O    ALA       2       A
+	   17    C    ALA       2       A
+	   22    1HB  ALA       2       A
+	   23    2HB  ALA       2       A
+
+	Valency of atom 22 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	   22    1HB  ALA       2       A
+	   24    3HB  ALA       2       A
+	   23    2HB  ALA       2       A
+	   19    CB   ALA       2       A
+	   15    N    ALA       2       A
+	   18    O    ALA       2       A
+
+	Valency of atom 23 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	   23    2HB  ALA       2       A
+	   22    1HB  ALA       2       A
+	   63    OE1  GLN       5       A
+	   24    3HB  ALA       2       A
+	   19    CB   ALA       2       A
+	   18    O    ALA       2       A
+
+	Valency of atom 25 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	   25    N    TYR       3       A
+	   17    C    ALA       2       A
+	   26    CA   TYR       3       A
+	   37    H    TYR       3       A
+	   39    2HB  TYR       3       A
+
+	Valency of atom 46 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	   46    N    ALA       4       A
+	   27    C    TYR       3       A
+	   47    CA   ALA       4       A
+	   51    H    ALA       4       A
+	   54    2HB  ALA       4       A
+
+	Valency of atom 56 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	   56    N    GLN       5       A
+	   48    C    ALA       4       A
+	   57    CA   GLN       5       A
+	   65    H    GLN       5       A
+	   67    2HB  GLN       5       A
+
+	Valency of atom 59 is 3, greater than its maximum valency (2)
+	 Atom#  Atom  Res    Res#    Chain
+	   59    O    GLN       5       A
+	   58    C    GLN       5       A
+	  123    1HB  ALA       8       A
+	  136    2HB  ASP       9       A
+
+	Valency of atom 63 is 3, greater than its maximum valency (2)
+	 Atom#  Atom  Res    Res#    Chain
+	   63    OE1  GLN       5       A
+	   62    CD   GLN       5       A
+	   23    2HB  ALA       2       A
+	   69    2HG  GLN       5       A
+
+	Valency of atom 73 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	   73    N    TRP       6       A
+	   58    C    GLN       5       A
+	   74    CA   TRP       6       A
+	   87    H    TRP       6       A
+	   89    2HB  TRP       6       A
+
+	Valency of atom 97 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	   97    N    LEU       7       A
+	   75    C    TRP       6       A
+	   98    CA   LEU       7       A
+	  105    H    LEU       7       A
+	  107    2HB  LEU       7       A
+
+	Valency of atom 98 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	   98    CA   LEU       7       A
+	   97    N    LEU       7       A
+	   99    C    LEU       7       A
+	  101    CB   LEU       7       A
+	  106    HA   LEU       7       A
+	  107    2HB  LEU       7       A
+
+	Valency of atom 116 is 5, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  116    N    ALA       8       A
+	   99    C    LEU       7       A
+	  117    CA   ALA       8       A
+	  121    H    ALA       8       A
+	  123    1HB  ALA       8       A
+	  125    3HB  ALA       8       A
+
+	Valency of atom 123 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  123    1HB  ALA       8       A
+	  116    N    ALA       8       A
+	   59    O    GLN       5       A
+	  124    2HB  ALA       8       A
+	  120    CB   ALA       8       A
+	  125    3HB  ALA       8       A
+
+	Valency of atom 125 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  125    3HB  ALA       8       A
+	  123    1HB  ALA       8       A
+	  124    2HB  ALA       8       A
+	  116    N    ALA       8       A
+	  120    CB   ALA       8       A
+	   49    O    ALA       4       A
+
+	Valency of atom 126 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  126    N    ASP       9       A
+	  118    C    ALA       8       A
+	  127    CA   ASP       9       A
+	  134    H    ASP       9       A
+	  136    2HB  ASP       9       A
+
+	Valency of atom 127 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  127    CA   ASP       9       A
+	  126    N    ASP       9       A
+	  128    C    ASP       9       A
+	  130    CB   ASP       9       A
+	  135    HA   ASP       9       A
+	  136    2HB  ASP       9       A
+
+	Valency of atom 136 is 6, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  136    2HB  ASP       9       A
+	  132    OD1  ASP       9       A
+	  133    OD2  ASP       9       A
+	  130    CB   ASP       9       A
+	  127    CA   ASP       9       A
+	  126    N    ASP       9       A
+	   59    O    GLN       5       A
+
+	Valency of atom 138 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  138    N    GLY      10       A
+	  128    C    ASP       9       A
+	  139    CA   GLY      10       A
+	  142    H    GLY      10       A
+	  143    2HA  GLY      10       A
+
+	Valency of atom 145 is 6, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  145    N    GLY      11       A
+	  140    C    GLY      10       A
+	  146    CA   GLY      11       A
+	  149    H    GLY      11       A
+	  143    2HA  GLY      10       A
+	  150    2HA  GLY      11       A
+	  164    2HD  PRO      12       A
+
+	Valency of atom 152 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  152    N    PRO      12       A
+	  147    C    GLY      11       A
+	  153    CA   PRO      12       A
+	  158    CD   PRO      12       A
+	  164    2HD  PRO      12       A
+
+	Valency of atom 166 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  166    N    SER      13       A
+	  154    C    PRO      12       A
+	  167    CA   SER      13       A
+	  172    H    SER      13       A
+	  174    2HB  SER      13       A
+
+	Valency of atom 171 is 3, greater than its maximum valency (2)
+	 Atom#  Atom  Res    Res#    Chain
+	  171    OG   SER      13       A
+	  170    CB   SER      13       A
+	  176    HG   SER      13       A
+	  174    2HB  SER      13       A
+
+	Valency of atom 182 is 3, greater than its maximum valency (2)
+	 Atom#  Atom  Res    Res#    Chain
+	  182    OG   SER      14       A
+	  181    CB   SER      14       A
+	  187    HG   SER      14       A
+	  185    2HB  SER      14       A
+
+	Valency of atom 188 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  188    N    GLY      15       A
+	  179    C    SER      14       A
+	  189    CA   GLY      15       A
+	  192    H    GLY      15       A
+	  193    2HA  GLY      15       A
+
+	Valency of atom 195 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  195    N    ARG      16       A
+	  190    C    GLY      15       A
+	  196    CA   ARG      16       A
+	  206    H    ARG      16       A
+	  208    2HB  ARG      16       A
+
+	Valency of atom 201 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  201    CD   ARG      16       A
+	  200    CG   ARG      16       A
+	  202    NE   ARG      16       A
+	  213    HD3  ARG      16       A
+	  210    2HG  ARG      16       A
+	  212    2HD  ARG      16       A
+
+	Valency of atom 202 is 5, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  202    NE   ARG      16       A
+	  201    CD   ARG      16       A
+	  203    CZ   ARG      16       A
+	  214    HE   ARG      16       A
+	  210    2HG  ARG      16       A
+	  212    2HD  ARG      16       A
+
+	Valency of atom 204 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  204    NH1  ARG      16       A
+	  203    CZ   ARG      16       A
+	  215   1HH1  ARG      16       A
+	  216   2HH1  ARG      16       A
+	  212    2HD  ARG      16       A
+
+	Valency of atom 219 is 5, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  219    N    PRO      17       A
+	  197    C    ARG      16       A
+	  220    CA   PRO      17       A
+	  225    CD   PRO      17       A
+	  227    2HB  PRO      17       A
+	  231    2HD  PRO      17       A
+
+	Valency of atom 224 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  224    CG   PRO      17       A
+	  223    CB   PRO      17       A
+	  225    CD   PRO      17       A
+	  230    HG3  PRO      17       A
+	  227    2HB  PRO      17       A
+	  229    2HG  PRO      17       A
+
+	Valency of atom 227 is 6, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  227    2HB  PRO      17       A
+	  231    2HD  PRO      17       A
+	  229    2HG  PRO      17       A
+	  224    CG   PRO      17       A
+	  219    N    PRO      17       A
+	  223    CB   PRO      17       A
+	  222    O    PRO      17       A
+
+	Valency of atom 233 is 4, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  233    N    PRO      18       A
+	  221    C    PRO      17       A
+	  234    CA   PRO      18       A
+	  239    CD   PRO      18       A
+	  245    2HD  PRO      18       A
+
+	Valency of atom 247 is 5, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  247    N    PRO      19       A
+	  235    C    PRO      18       A
+	  248    CA   PRO      19       A
+	  253    CD   PRO      19       A
+	  257    2HG  PRO      19       A
+	  259    2HD  PRO      19       A
+
+	Valency of atom 253 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  253    CD   PRO      19       A
+	  247    N    PRO      19       A
+	  252    CG   PRO      19       A
+	  260    HD3  PRO      19       A
+	  257    2HG  PRO      19       A
+	  259    2HD  PRO      19       A
+
+	Valency of atom 257 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  257    2HG  PRO      19       A
+	  255    2HB  PRO      19       A
+	  253    CD   PRO      19       A
+	  252    CG   PRO      19       A
+	  247    N    PRO      19       A
+	  259    2HD  PRO      19       A
+
+	Valency of atom 261 is 5, greater than its maximum valency (3)
+	 Atom#  Atom  Res    Res#    Chain
+	  261    N    SER      20       A
+	  249    C    PRO      19       A
+	  262    CA   SER      20       A
+	  268    H    SER      20       A
+	  255    2HB  PRO      19       A
+	  270    2HB  SER      20       A
+
+	Valency of atom 262 is 5, greater than its maximum valency (4)
+	 Atom#  Atom  Res    Res#    Chain
+	  262    CA   SER      20       A
+	  261    N    SER      20       A
+	  263    C    SER      20       A
+	  265    CB   SER      20       A
+	  269    HA   SER      20       A
+	  270    2HB  SER      20       A
+
+	Valency of atom 266 is 3, greater than its maximum valency (2)
+	 Atom#  Atom  Res    Res#    Chain
+	  266    OG   SER      20       A
+	  265    CB   SER      20       A
+	  272    HG   SER      20       A
+	  270    2HB  SER      20       A
+---------------------------------------------------------------
+
+
+
+	 WARNING MESSAGES PRESENT:
+
+	 Some covalent bonds were identified by distance
+	    criteria: See check_bonding in *proflexdataset* for details.
+
+Number of H-bonds remaining after filtering with default energy cutoff of -1.00 Kcal/Mol: 8
+                          SELECTION CRITERIA
+
+        Hydrogen bond geometric selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Donor-Acceptor distance <= 3.5 Ang. without sulfur                      
+        Donor-Acceptor distance <= 4 Ang. with sulfur                           
+        Donor-Acceptor distance <= 4.5 Ang. salt bridge                         
+        Hydrogen-Acceptor distance <= 2.5 Ang. without sulfur                   
+        Hydrogen-Acceptor distance <= 3 Ang. with sulfur                        
+        Hydrogen-Acceptor distance <= 3.5 Ang. salt bridge                      
+        Donor-Hydrogen-Acceptor angle >= 110 Deg.                               
+        Hydrogen-Acceptor-Preacceptor angle >= 90 Deg.                          
+                                                                                
+        Hydrogen bond energetic selection criteria:                             
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+        Maximum allowed hydrogen bonding energy = -1 Kcal/Mol                   
+                                                                                
+        Non-covalent bond selection criteria:                                   
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                   
+        Keep all hydrogen bonds and hydrophobic tethers except                  
+        those including waters ----> Default assumption                         
+        Filter on Donor-Hydrogen-Acceptor angle                                 
+---------------------------------------------------------------------
+                    BASIC SUMMARY OF PROFLEX ANALYSIS
+
+       278 Atoms
+         8 Hydrogen bonds
+         2 Hydrophobic tethers
+        22 Torsional constraints
+        11 Independent degrees of freedom (DOF)
+         6 Rigid clusters
+         0 Isolated atoms
+         0 Isolated Dimers
+         1 Three-dimensional objects
+         1 Network induced stress regions
+         5 Floppy modes (internal independent DOF)
+         5 Hinge joints
+         5 Independent hinge joints
+         0 Collective motions (with two or more hinges)
+---------------------------------------------------------------------
+
+     Please wait:  Writing PyMol script files
+
+
+	The number of ATOMS = 278
